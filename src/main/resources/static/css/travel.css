@@ -223,7 +223,7 @@ style the element with the id of hero
   - set the height to 100px
   - set the line height to 100px
 */
-.footer {
+#footer {
   width: 100%;
   height: 100px;
   line-height: 100px;
@@ -306,7 +306,7 @@ table {
   - make sure the text is white and there is no underline
 */
 #social-links a {
- text-color: white;
+ color: white;
  text-decoration: none;
 
 }                
