@@ -32,7 +32,7 @@ body {
 override our h1 style to have a font size of 32px
 */
 #header-statement h1{
-font-size:32px;
+font-size: 32px;
 }
 
 
@@ -58,7 +58,7 @@ style the elements with a class of page-row
  - give the element a padding of 5%
  - give the element a margin of 2% on the top and bottom
 */
-page-row  {
+.page-row  {
 	width: 100%;
 	padding: 5%;
 	margin: 2%;
